@@ -42,6 +42,7 @@ A simple full-stack Task Management App built with **React**, **Node.js (Express
 
 
 Frontend Setup (React + vite)
+
 1.Navigate to the frontend directory:
  cd frontend
 2.Install dependencies:
